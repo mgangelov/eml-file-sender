@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.local
+
+# Test files
+*.eml
+test/
+
+# Deno
+.deno/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
